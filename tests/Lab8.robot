@@ -12,7 +12,6 @@ Open Browser To Login Page
     Go To    https://computing.kku.ac.th
 
 *** Test Cases ***
-Open KKU Computing Website
-    Open Browser To Login Page
-    Title Should Contain    KKU
-    Close Browser
+UAT Jenkins Test
+    Log    Jenkins UAT pipeline is working correctly
+    Log    Student: วัฒนชัย บึงจันทร์
